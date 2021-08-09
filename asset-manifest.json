@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopingwebpage-buy-tshirt/static/css/main.35fb361f.chunk.css",
+    "main.js": "/shopingwebpage-buy-tshirt/static/js/main.4899090f.chunk.js",
+    "main.js.map": "/shopingwebpage-buy-tshirt/static/js/main.4899090f.chunk.js.map",
+    "runtime-main.js": "/shopingwebpage-buy-tshirt/static/js/runtime-main.22482ab1.js",
+    "runtime-main.js.map": "/shopingwebpage-buy-tshirt/static/js/runtime-main.22482ab1.js.map",
+    "static/js/2.b55f89f4.chunk.js": "/shopingwebpage-buy-tshirt/static/js/2.b55f89f4.chunk.js",
+    "static/js/2.b55f89f4.chunk.js.map": "/shopingwebpage-buy-tshirt/static/js/2.b55f89f4.chunk.js.map",
+    "static/js/3.9ccaec55.chunk.js": "/shopingwebpage-buy-tshirt/static/js/3.9ccaec55.chunk.js",
+    "static/js/3.9ccaec55.chunk.js.map": "/shopingwebpage-buy-tshirt/static/js/3.9ccaec55.chunk.js.map",
+    "index.html": "/shopingwebpage-buy-tshirt/index.html",
+    "static/css/main.35fb361f.chunk.css.map": "/shopingwebpage-buy-tshirt/static/css/main.35fb361f.chunk.css.map",
+    "static/js/2.b55f89f4.chunk.js.LICENSE.txt": "/shopingwebpage-buy-tshirt/static/js/2.b55f89f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22482ab1.js",
+    "static/js/2.b55f89f4.chunk.js",
+    "static/css/main.35fb361f.chunk.css",
+    "static/js/main.4899090f.chunk.js"
+  ]
+}
